@@ -264,7 +264,7 @@ const Gasto = () => {
           <Modal.Title style={{color: 'black'}}>Campos Obligatorios</Modal.Title>
         </Modal.Header>
         <Modal.Body style={{color: 'black'}}>
-          <h6>los campos Monto, Descripcion y Categoria son obligatorios</h6>
+          <h6>Los campos: Monto, Descripcion y Categoria son obligatorios</h6>
         </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={() => setMostrarModalValidacion(false)}>
