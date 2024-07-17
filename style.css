@@ -1,0 +1,20 @@
+.container{
+    background-color: #2E2E2E;
+    color: #E0E0E0;
+}
+
+.form-select{
+    position: relative;
+    left: 20px;
+}
+
+
+
+#monto, #categoria, #descripcion{
+    background-color: #333333;
+    color: white;
+}
+
+#agregarbtn{
+    width: 200px;
+}
